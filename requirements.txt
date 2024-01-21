@@ -24,3 +24,4 @@ cryptography>=3.4.8,<4
 publicsuffixlist>=0.7.13,<0.8
 openpyxl>=3.0.10,<4
 pyyaml>=5.4.1,<6
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
